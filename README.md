@@ -7,12 +7,11 @@ It explores how AI adoption in the financial sector influences ESG performance a
 ## 🎯 Objectives
 - Compare ESG outcomes of financial institutions with varying levels of AI adoption
 - Identify differences across industries and regions
-- Visualize findings for better communication
 
 ## 📊 Methodology
 - Data sources: Bloomberg terminal, Natural Language Processing (NLP) tool from Insig AI
 - Tools used: Excel, Google colab
-- Analysis approach: descriptive statistics, comparative analysis, visualization
+- Analysis approach: descriptive statistics, comparative analysis, Ordinary Least Squares (OLS) regression, visualization
 
 ## 📈 Key Visualizations
 - Industry vs ESG performance 
@@ -20,9 +19,6 @@ It explores how AI adoption in the financial sector influences ESG performance a
 - AI adoption vs ESG score
 
 ## 📂 Repository Contents
-- `Report.pdf` → short summary report including main charts
+- `CHIH JOU KAO.pdf` → short summary report including the main charts
 - `README.md` → this project description
 
-## 🔗 Next Steps
-- Update with full dissertation findings once finalized
-- Expand analysis with more granular AI adoption metrics
