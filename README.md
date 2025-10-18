@@ -15,14 +15,12 @@ It explores how AI adoption in the financial sector influences ESG performance a
 - Analysis approach: descriptive statistics, comparative analysis, visualization
 
 ## 📈 Key Visualizations
-- Industry vs ESG performance (bar chart)
-- Country-level comparison (map)
-- AI adoption vs ESG score (scatter plot)
+- Industry vs ESG performance 
+- Country-level comparison 
+- AI adoption vs ESG score
 
 ## 📂 Repository Contents
-- `/data` → anonymized or sample dataset (if shareable)
-- `/visuals` → PNG/PDF of charts
-- `Report.pdf` → short summary report
+- `Report.pdf` → short summary report including main charts
 - `README.md` → this project description
 
 ## 🔗 Next Steps
