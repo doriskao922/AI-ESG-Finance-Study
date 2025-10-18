@@ -1,5 +1,3 @@
-# AI-ESG-Finance-Study
-
 # AI Adoption and ESG Performance in the Financial Sector
 
 ## 📌 Project Overview
@@ -12,8 +10,8 @@ It explores how AI adoption in the financial sector influences ESG performance a
 - Visualize findings for better communication
 
 ## 📊 Methodology
-- Data sources: [list ESG dataset, AI adoption indicators, etc.]
-- Tools used: Excel, Power BI, Canva
+- Data sources: Bloomberg terminal, Natural Language Processing (NLP) tool from Insig AI
+- Tools used: Excel, Google colab
 - Analysis approach: descriptive statistics, comparative analysis, visualization
 
 ## 📈 Key Visualizations
