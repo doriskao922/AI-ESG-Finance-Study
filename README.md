@@ -1,8 +1,8 @@
 # AI Adoption and ESG Performance in the Financial Sector
 
 ## 📌 Project Overview
-This project is based on my ongoing Master's dissertation in Investment Banking & Finance.  
-It explores how AI adoption in the financial sector influences ESG performance across industries and countries.
+- This project is based on my ongoing Master's dissertation in Investment Banking & Finance.  
+- It explores how AI adoption in the financial sector influences ESG performance across industries and countries.
 
 ## 🎯 Objectives
 - Compare ESG outcomes of financial institutions with varying levels of AI adoption
