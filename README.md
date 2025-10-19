@@ -20,5 +20,5 @@
 
 ## 📂 Repository Contents
 - `CHIH JOU KAO.pdf` → short summary report including the main charts
-- `README.md` → this project description
+- `README.md` → project introduction
 
