@@ -20,7 +20,7 @@ As part of my collaboration experience with **FCA UK** and **Insig AI**, this st
 ## 🔍 Key Findings  
 - **AI adoption significantly improves environmental (E) performance**, enhancing data-driven monitoring and environmental risk management.  
 - **No significant effect** observed on social (S) or governance (G) dimensions, reflecting their qualitative and institutional complexity.  
-- **Regional differences:** EU institutions outperform in environmental and social areas, while non-EU institutions show stronger governance results.  
+- **Regional differences:** EU institutions outperform in environmental areas, while non-EU institutions show stronger social and governance results.  
 - **Paradox of ESG weighting:** Firms placing higher emphasis on the environmental pillar often report *lower actual environmental scores*, indicating a gap between disclosure and real performance.  
 
 ## 🌿 Implications  
